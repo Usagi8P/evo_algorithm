@@ -1,2 +1,2 @@
-# evo_algorithim
-A framework for running evolutionary algorithm
+# Evolutionary Algorithm
+A framework for running evolutionary algorithm.
